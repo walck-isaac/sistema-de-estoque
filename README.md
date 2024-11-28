@@ -5,7 +5,7 @@ Esse é sistema simples e eficiente para gerenciar produtos, controlar quantidad
 
 🎯 Objetivo do Projeto
 
-Este sistema foi criado como uma introdução ao desenvolvimento de software de gestão utilizando Java. É perfeito para aprender conceitos como CRUD, integração com banco de dados e construção de interfaces gráficas.
+Este sistema foi criado como uma introdução ao desenvolvimento de software de gestão utilizando Java spring boot. É perfeito para aprender conceitos como CRUD, integração com banco de dados e construção de interfaces gráficas.
 
 
 Funcionalidades
